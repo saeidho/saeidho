@@ -8,6 +8,13 @@
 
 ---
 
+## 💬 درباره من
+
+- 🌐 مهندس شبکه — CCNA و CCNP، تمرکز روی سیسکو
+- 🐍 برنامه‌نویس پایتون و علاقه‌مند به یاد دادن
+- 🤖 سازنده کانال تلگرام «AI یار» — ابزارها و پرامپت‌های کاربردی هوش مصنوعی
+- 🌱 همیشه در حال یاد گرفتن چیزای جدید
+
 ## 🎓 مهارت‌ها و ابزارهایی که استفاده می‌کنم
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
